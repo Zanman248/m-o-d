@@ -1,0 +1,30 @@
+{
+  "group": "chrisomode",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "chrisomode:chrisium_ingot"
+    },
+    "1": {
+      "item": "chrisomode:chrisium_ingot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "item": "chrisomode:chrisium_ingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "chrisomode:chrisium_toolsaxe",
+    "count": 1
+  }
+}

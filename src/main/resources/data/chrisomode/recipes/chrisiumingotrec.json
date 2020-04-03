@@ -1,0 +1,11 @@
+{
+  "group": "chrisomode",
+  "type": "minecraft:smelting",
+  "experience": 2,
+  "ingredient": {
+    "item": "chrisomode:chrisium_ore"
+  },
+  "result": {
+    "item": "chrisomode:chrisium_ingot"
+  }
+}

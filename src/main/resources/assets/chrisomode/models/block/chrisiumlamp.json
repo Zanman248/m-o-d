@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "chrisomode:blocks/chrisium_lamp",
+    "up": "chrisomode:blocks/chrisium_lamp",
+    "north": "chrisomode:blocks/chrisium_lamp",
+    "east": "chrisomode:blocks/chrisium_lamp",
+    "south": "chrisomode:blocks/chrisium_lamp",
+    "west": "chrisomode:blocks/chrisium_lamp",
+    "particle": "chrisomode:blocks/chrisium_lamp"
+  }
+}

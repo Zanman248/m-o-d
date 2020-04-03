@@ -1,0 +1,33 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "chrisium_wand",
+    "customModelName": "Normal",
+    "name": "Chrisium Wand",
+    "creativeTab": {
+      "value": "CUSTOM:ChrisoMode"
+    },
+    "toolType": "Special",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 1.0,
+    "usageCount": 10,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Chrisiumblock"
+      }
+    ],
+    "onRightClickedOnBlock": {
+      "name": "ChrisiumwandRightClickedOnBlock"
+    },
+    "onEntityHitWith": {
+      "name": "ChrisiumwandMobIsHitWithTool"
+    }
+  }
+}

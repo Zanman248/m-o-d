@@ -1,0 +1,36 @@
+{
+  "group": "chrisomode",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "chrisomode:chrisium_ingot"
+    },
+    "1": {
+      "item": "chrisomode:chrisium_ingot"
+    },
+    "2": {
+      "item": "chrisomode:chrisium_ingot"
+    },
+    "3": {
+      "item": "chrisomode:chrisium_ingot"
+    },
+    "5": {
+      "item": "chrisomode:chrisium_ingot"
+    },
+    "6": {
+      "item": "chrisomode:chrisium_ingot"
+    },
+    "8": {
+      "item": "chrisomode:chrisium_ingot"
+    }
+  },
+  "result": {
+    "item": "chrisomode:chrisiumarmourlegs",
+    "count": 1
+  }
+}

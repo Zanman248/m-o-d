@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "chrisium_tools_pickaxe",
+    "customModelName": "Normal",
+    "name": "Chrisium Pickaxe",
+    "creativeTab": {
+      "value": "CUSTOM:ChrisoMode"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 3,
+    "efficiency": 7.0,
+    "attackSpeed": 1.6,
+    "enchantability": 18,
+    "damageVsEntity": 4.5,
+    "usageCount": 700,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "chrisomode:blocks/cereal_block",
+    "up": "chrisomode:blocks/cereal_block",
+    "north": "chrisomode:blocks/cereal_block",
+    "east": "chrisomode:blocks/cereal_block",
+    "south": "chrisomode:blocks/cereal_block",
+    "west": "chrisomode:blocks/cereal_block",
+    "particle": "chrisomode:blocks/cereal_block"
+  }
+}

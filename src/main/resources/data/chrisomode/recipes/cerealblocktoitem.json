@@ -1,0 +1,13 @@
+{
+  "group": "chrisomode",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "chrisomode:cerealblock"
+    }
+  ],
+  "result": {
+    "item": "chrisomode:cereal",
+    "count": 4
+  }
+}

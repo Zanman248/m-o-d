@@ -1,0 +1,47 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "chrisium_helmet",
+    "enableBody": true,
+    "textureBody": "chrisium_hoodie",
+    "enableLeggings": true,
+    "textureLeggings": "chrisium_jeans",
+    "enableBoots": true,
+    "textureBoots": "chrisium_shoes",
+    "creativeTab": {
+      "value": "CUSTOM:ChrisoMode"
+    },
+    "armorTextureFile": "chrisium_armour",
+    "helmetName": "Chrisium Hoodie",
+    "bodyName": "Chrisium Hoodie",
+    "leggingsName": "Chrisium Jeans",
+    "bootsName": "Chrisium Shoes",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 25,
+    "damageValueHelmet": 2,
+    "damageValueBody": 6,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 1.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

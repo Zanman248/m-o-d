@@ -1,0 +1,21 @@
+{
+  "_fv": 6,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "cereal",
+    "customModelName": "Normal",
+    "name": "Cereal",
+    "creativeTab": {
+      "value": "CUSTOM:ChrisoMode"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 2,
+    "saturation": 0.4,
+    "eatingSpeed": 40,
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

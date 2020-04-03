@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Chrisiumingot"
+      },
+      {
+        "value": "CUSTOM:Chrisiumingot"
+      },
+      {
+        "value": "CUSTOM:Chrisiumingot"
+      },
+      {
+        "value": "CUSTOM:Chrisiumingot"
+      },
+      {
+        "value": "Blocks.GLOWSTONE"
+      },
+      {
+        "value": "CUSTOM:Chrisiumingot"
+      },
+      {
+        "value": "CUSTOM:Chrisiumingot"
+      },
+      {
+        "value": "CUSTOM:Chrisiumingot"
+      },
+      {
+        "value": "CUSTOM:Chrisiumingot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ChrisiumLamp"
+    },
+    "name": "chrisiumlamprecipie",
+    "namespace": "mod"
+  }
+}

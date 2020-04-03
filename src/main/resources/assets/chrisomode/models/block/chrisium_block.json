@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "chrisomode:blocks/chrisium_block",
+    "up": "chrisomode:blocks/chrisium_block",
+    "north": "chrisomode:blocks/chrisium_block",
+    "east": "chrisomode:blocks/chrisium_block",
+    "south": "chrisomode:blocks/chrisium_block",
+    "west": "chrisomode:blocks/chrisium_block",
+    "particle": "chrisomode:blocks/chrisium_block"
+  }
+}

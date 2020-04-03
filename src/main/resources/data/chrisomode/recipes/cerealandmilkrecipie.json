@@ -1,0 +1,19 @@
+{
+  "group": "chrisomode",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "chrisomode:cereal"
+    },
+    {
+      "item": "chrisomode:chrisiumbowl"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    }
+  ],
+  "result": {
+    "item": "chrisomode:ceralandmilk",
+    "count": 1
+  }
+}

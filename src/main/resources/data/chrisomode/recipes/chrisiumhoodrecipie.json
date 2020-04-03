@@ -1,0 +1,29 @@
+{
+  "group": "chrisomode",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "chrisomode:chrisium_ingot"
+    },
+    "1": {
+      "item": "chrisomode:chrisium_ingot"
+    },
+    "2": {
+      "item": "chrisomode:chrisium_ingot"
+    },
+    "3": {
+      "item": "chrisomode:chrisium_ingot"
+    },
+    "5": {
+      "item": "chrisomode:chrisium_ingot"
+    }
+  },
+  "result": {
+    "item": "chrisomode:chrisiumarmourhelmet",
+    "count": 1
+  }
+}

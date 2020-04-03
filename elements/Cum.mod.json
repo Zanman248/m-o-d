@@ -1,0 +1,21 @@
+{
+  "_fv": 6,
+  "_type": "fluid",
+  "definition": {
+    "name": "Cum",
+    "textureStill": "cum_still",
+    "textureFlowing": "cum_still",
+    "luminosity": 0,
+    "density": 1000,
+    "viscosity": 4000,
+    "isGas": false,
+    "type": "WATER",
+    "generateBucket": false,
+    "creativeTab": {
+      "value": "CUSTOM:ChrisoMode"
+    },
+    "spawnWorldTypes": [
+      "Surface"
+    ]
+  }
+}
